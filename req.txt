@@ -1,0 +1,9 @@
+anthropic
+langchain
+streamlit
+python-dotenv
+PyPDF2
+huggingface-hub
+transformers
+
+-e .
